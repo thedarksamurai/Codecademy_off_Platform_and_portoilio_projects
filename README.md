@@ -1,0 +1,2 @@
+# Codecademy_off_Platform_and_portoilio_projects
+Codecademy off platform projects with portfolio projects from codecamey
