@@ -1,0 +1,39 @@
+h1{
+    background-image: url("https://i.imgur.com/Zu3iI3v.jpg");
+    background-size: cover;
+    font-family: Helvetica, serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+h2{
+    font-family: Helvetica, serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: aliceblue;
+}
+.brushes{
+    background-color: mediumspringgreen;
+}
+h3{
+    font-family: Helvetica, serif;
+
+}
+a{
+    font-family: Helvetica, serif;
+    font-weight: bold;
+    color: blue;
+}
+.Frames{
+    background-color: lightcoral;
+}
+.frames-img{
+    float: right;
+}
+.art-frames{
+    position: absolute;
+}
+.paint{
+    background-color: skyblue;
+}
